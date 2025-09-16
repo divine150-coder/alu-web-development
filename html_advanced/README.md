@@ -1,0 +1,1 @@
+echo "This project involves building a webpage from a Figma design using only semantic HTML. The focus is on creating a clean, organized structure that mirrors the design and is ready for future styling and interactivity."
